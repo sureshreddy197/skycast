@@ -13,8 +13,8 @@ export default {
         },
       },
       animation: {
-        "fade-in": "fadeIn 0.5s ease-out forwards",
-        "slide-up": "slideUp 0.5s ease-out forwards",
+        "fade-in": "fadeIn 0.5s ease-out both",
+        "slide-up": "slideUp 0.5s ease-out both",
         "pulse-slow": "pulse 3s ease-in-out infinite",
       },
       keyframes: {
